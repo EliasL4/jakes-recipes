@@ -1,7 +1,27 @@
 {
   "updated": "2026-11-09",
-  "count": 1,
+  "count": 2,
   "recipes": [
+    {
+      "id": "minestrone-soup",
+      "title": "Minestrone Soup",
+      "summary": "A hearty Italian vegetable soup with onion, carrot, celery, beans, green beans, and small pasta simmered in an herb-flecked tomato broth. Finish each bowl with parsley, a pinch of red pepper flakes, and optional Parmesan.",
+      "tags": [
+        "soup",
+        "italian",
+        "vegetarian",
+        "pasta",
+        "beans",
+        "dinner",
+        "one-pot"
+      ],
+      "total_time": null,
+      "source_site": "Love and Lemons",
+      "source_url": "https://www.loveandlemons.com/minestrone-soup/",
+      "date_added": "2026-11-09",
+      "url": "recipes/minestrone-soup.html",
+      "data": "data/recipes/minestrone-soup.json"
+    },
     {
       "id": "mac-n-cheese-dry-mix",
       "title": "Homemade Mac N Cheese Dry Mix",
