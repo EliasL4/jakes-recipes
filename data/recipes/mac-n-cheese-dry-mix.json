@@ -1,0 +1,173 @@
+{
+  "id": "mac-n-cheese-dry-mix",
+  "title": "Homemade Mac N Cheese Dry Mix",
+  "source_url": "https://treasuredcraftkitchen.com/mac-n-cheese-dry-mix/",
+  "source_name": "Treasured Craft Kitchen (Michelle Finethy)",
+  "source_site": "Treasured Craft Kitchen",
+  "source_author": "Michelle Finethy",
+  "summary": "A pantry jar of cheddar cheese powder, nutritional yeast, and spices that stands in for boxed mac and cheese. Whisk the mix into any drained pasta with a splash of water or milk for a creamy sauce in minutes.",
+  "tags": [
+    "pantry",
+    "make-ahead",
+    "pasta",
+    "mix",
+    "shelf-stable",
+    "vegetarian"
+  ],
+  "servings": "1 pint jar (32 tablespoons); about 10–11 uses at 3 tbsp each",
+  "yield": "1 pint jar (32 tablespoons)",
+  "times": {
+    "prep": "5 minutes",
+    "cook": null,
+    "total": "5 minutes"
+  },
+  "ingredient_groups": [
+    {
+      "group": "Dry mix (1 pint jar)",
+      "items": [
+        {
+          "original_text": "1 cup cheddar cheese powder",
+          "name": "cheddar cheese powder",
+          "quantity": 1,
+          "unit": "cup",
+          "notes": null
+        },
+        {
+          "original_text": "1/2 cup nutritional yeast",
+          "name": "nutritional yeast",
+          "quantity": 0.5,
+          "unit": "cup",
+          "notes": null
+        },
+        {
+          "original_text": "1/4 cup dry milk powder",
+          "name": "dry milk powder",
+          "quantity": 0.25,
+          "unit": "cup",
+          "notes": null
+        },
+        {
+          "original_text": "1/4 cup butter powder",
+          "name": "butter powder",
+          "quantity": 0.25,
+          "unit": "cup",
+          "notes": null
+        },
+        {
+          "original_text": "1 tbsp cornstarch",
+          "name": "cornstarch",
+          "quantity": 1,
+          "unit": "tbsp",
+          "notes": null
+        },
+        {
+          "original_text": "1 tsp mustard powder",
+          "name": "mustard powder",
+          "quantity": 1,
+          "unit": "tsp",
+          "notes": null
+        },
+        {
+          "original_text": "1 tsp onion powder",
+          "name": "onion powder",
+          "quantity": 1,
+          "unit": "tsp",
+          "notes": null
+        },
+        {
+          "original_text": "1/2 tsp garlic powder",
+          "name": "garlic powder",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "notes": null
+        },
+        {
+          "original_text": "1/2 tsp paprika",
+          "name": "paprika",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "notes": null
+        },
+        {
+          "original_text": "1/2 tsp salt",
+          "name": "salt",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "group": "To make one batch of mac and cheese",
+      "items": [
+        {
+          "original_text": "8 oz pasta (macaroni for example)",
+          "name": "pasta",
+          "quantity": 8,
+          "unit": "oz",
+          "notes": "macaroni for example; any shape or type works"
+        },
+        {
+          "original_text": "3 tbsp cheesy dry mix",
+          "name": "mac n cheese dry mix",
+          "quantity": 3,
+          "unit": "tbsp",
+          "notes": "from the jar above"
+        },
+        {
+          "original_text": "up to 3 tbsp water or milk, one tbsp at a time",
+          "name": "water or milk",
+          "quantity": 3,
+          "unit": "tbsp",
+          "notes": "up to 3 tbsp; add one tbsp at a time until creamy"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "phase": "Make the dry mix",
+      "items": [
+        "Add every dry ingredient to a pint jar.",
+        "Seal the jar, shake until evenly blended, and label it.",
+        "Store in a cool, dark place."
+      ]
+    },
+    {
+      "phase": "Make mac and cheese",
+      "items": [
+        "Cook 8 oz pasta (macaroni works) as the package directs, then drain. Stir in 3 tbsp of the dry mix, then add up to 3 tbsp water or milk one tablespoon at a time, mixing until creamy."
+      ]
+    }
+  ],
+  "notes": [
+    "Turn it into a fuller plate by stirring in cooked protein or vegetables at the end.",
+    "In a sealed jar kept cool, dark, and dry, flavor holds for about 6 months; moisture leads to clumping and spoilage.",
+    "Always scoop with a dry spoon.",
+    "Any noodle works: protein pasta, veggie noodles, gluten-free pasta, or whatever is on hand."
+  ],
+  "flags": [
+    {
+      "severity": "high",
+      "text": "Source recipe card lists Diet as Dairy-Free, but the mix includes dry milk powder and butter powder (dairy). Cheddar cheese powder is also typically dairy."
+    },
+    {
+      "severity": "medium",
+      "text": "Blog body says one batch makes about 12 servings; the card yield is 32 tablespoons at 3 tbsp per use (~10–11 uses). Using the card yield."
+    },
+    {
+      "severity": "low",
+      "text": "Source step text has a typo: \"Mix until until creamy.\" Reworded without the double \"until.\""
+    },
+    {
+      "severity": "low",
+      "text": "Gluten-Free and Dairy-Free claims depend on the powder brands and the pasta chosen; not independently verified."
+    }
+  ],
+  "images": {
+    "embedded": [],
+    "note": "No site photos downloaded or embedded (rights unclear). Photos are on the source page.",
+    "source_photos_url": "https://treasuredcraftkitchen.com/mac-n-cheese-dry-mix/"
+  },
+  "date_added": "2026-11-09"
+}

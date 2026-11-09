@@ -1,0 +1,25 @@
+{
+  "updated": "2026-11-09",
+  "count": 1,
+  "recipes": [
+    {
+      "id": "mac-n-cheese-dry-mix",
+      "title": "Homemade Mac N Cheese Dry Mix",
+      "summary": "A pantry jar of cheddar cheese powder, nutritional yeast, and spices that stands in for boxed mac and cheese. Whisk the mix into any drained pasta with a splash of water or milk for a creamy sauce in minutes.",
+      "tags": [
+        "pantry",
+        "make-ahead",
+        "pasta",
+        "mix",
+        "shelf-stable",
+        "vegetarian"
+      ],
+      "total_time": "5 minutes",
+      "source_site": "Treasured Craft Kitchen",
+      "source_url": "https://treasuredcraftkitchen.com/mac-n-cheese-dry-mix/",
+      "date_added": "2026-11-09",
+      "url": "recipes/mac-n-cheese-dry-mix.html",
+      "data": "data/recipes/mac-n-cheese-dry-mix.json"
+    }
+  ]
+}

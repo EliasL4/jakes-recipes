@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jake&#x27;s Recipes</title>
+<meta name="description" content="Jake&#x27;s personal recipe collection: tried and saved recipes, searchable by name and tag, each credited to its original source.">
+<meta name="robots" content="index,follow">
+<meta property="og:title" content="Jake&#x27;s Recipes">
+<meta property="og:description" content="Jake&#x27;s personal recipe collection: tried and saved recipes, searchable by name and tag, each credited to its original source.">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#b5532a">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%8D%B2%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body class="home">
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true">🍲</span> Jake&#x27;s Recipes</a>
+  </div>
+</header>
+<main class="wrap">
+<section class="hero">
+  <h1>Jake&#x27;s Recipes</h1>
+  <p>A personal recipe book. Search by name or ingredient idea, or tap a tag to filter.</p>
+</section>
+<section class="browse" aria-label="Browse recipes">
+  <label class="search">
+    <span class="visually-hidden">Search recipes</span>
+    <input id="q" type="search" placeholder="Search recipes: mac, pantry, pasta…" autocomplete="off">
+  </label>
+  <div class="chips" role="group" aria-label="Filter by tag">
+    <button type="button" class="chip is-active" data-tag="all" aria-pressed="true">All</button><button type="button" class="chip" data-tag="make-ahead" aria-pressed="false">make-ahead <span class="count">1</span></button><button type="button" class="chip" data-tag="mix" aria-pressed="false">mix <span class="count">1</span></button><button type="button" class="chip" data-tag="pantry" aria-pressed="false">pantry <span class="count">1</span></button><button type="button" class="chip" data-tag="pasta" aria-pressed="false">pasta <span class="count">1</span></button><button type="button" class="chip" data-tag="shelf-stable" aria-pressed="false">shelf-stable <span class="count">1</span></button><button type="button" class="chip" data-tag="vegetarian" aria-pressed="false">vegetarian <span class="count">1</span></button>
+  </div>
+  <p class="result-count" id="count" aria-live="polite">1 recipe</p>
+  <ul class="recipe-list" id="list">
+<li class="recipe-card" data-tags="pantry make-ahead pasta mix shelf-stable vegetarian" data-search="homemade mac n cheese dry mix a pantry jar of cheddar cheese powder, nutritional yeast, and spices that stands in for boxed mac and cheese. whisk the mix into any drained pasta with a splash of water or milk for a creamy sauce in minutes. pantry make-ahead pasta mix shelf-stable vegetarian treasured craft kitchen">
+  <a href="recipes/mac-n-cheese-dry-mix.html">
+    <h3>Homemade Mac N Cheese Dry Mix</h3>
+    <p>A pantry jar of cheddar cheese powder, nutritional yeast, and spices that stands in for boxed mac and cheese. Whisk the mix into any drained pasta with a splash of water or milk for a creamy sauce in minutes.</p>
+    <div class="card-meta"><span class="time">⏱ 5 minutes</span><span class="from">from Treasured Craft Kitchen</span></div>
+    <div class="tags"><span class="tag">pantry</span><span class="tag">make-ahead</span><span class="tag">pasta</span><span class="tag">mix</span><span class="tag">shelf-stable</span><span class="tag">vegetarian</span></div>
+  </a>
+</li>
+  </ul>
+  <p class="empty" id="empty" hidden>No recipes match. Try another word or tag.</p>
+</section>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <p>Jake's personal recipe collection. Every recipe is credited and linked to its original source; summaries and steps are written in our own words, and photos stay on the original sites.</p>
+  </div>
+</footer>
+<script src="assets/app.js" defer></script>
+</body>
+</html>
