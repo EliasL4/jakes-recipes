@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-09",
-  "count": 2,
+  "updated": "2026-11-18",
+  "count": 3,
   "recipes": [
+    {
+      "id": "homemade-chili",
+      "title": "Homemade Chili",
+      "summary": "A crowd-sized pot of chili built from browned ground beef and Italian sausage, peppers, fire-roasted tomatoes, and beans, then slow-simmered and finished with dark chocolate and a cinnamon stick. Serve it with shredded cheese, sliced jalapeños, and cornbread.",
+      "tags": [
+        "chili",
+        "dinner",
+        "beef",
+        "sausage",
+        "beans",
+        "one-pot",
+        "make-ahead"
+      ],
+      "total_time": "2 hours 35 minutes",
+      "source_site": "Cam Can Coook",
+      "source_url": "https://camcancoook.com/homemade-chili/",
+      "date_added": "2026-11-18",
+      "url": "recipes/homemade-chili.html",
+      "data": "data/recipes/homemade-chili.json"
+    },
     {
       "id": "minestrone-soup",
       "title": "Minestrone Soup",

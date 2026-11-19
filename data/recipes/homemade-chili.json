@@ -1,0 +1,418 @@
+{
+  "id": "homemade-chili",
+  "title": "Homemade Chili",
+  "source_url": "https://camcancoook.com/homemade-chili/",
+  "source_name": "Cam Can Coook (camcancoook)",
+  "source_site": "Cam Can Coook",
+  "source_author": "camcancoook",
+  "summary": "A crowd-sized pot of chili built from browned ground beef and Italian sausage, peppers, fire-roasted tomatoes, and beans, then slow-simmered and finished with dark chocolate and a cinnamon stick. Serve it with shredded cheese, sliced jalapeños, and cornbread.",
+  "tags": [
+    "chili",
+    "dinner",
+    "beef",
+    "sausage",
+    "beans",
+    "one-pot",
+    "make-ahead"
+  ],
+  "servings": "8-10",
+  "yield": "8-10 servings",
+  "times": {
+    "prep": "15 minutes",
+    "cook": "2 hours 20 minutes",
+    "total": "2 hours 35 minutes"
+  },
+  "ingredient_groups": [
+    {
+      "group": "Meat",
+      "items": [
+        {
+          "original_text": "Ground Beef - 2 Lbs",
+          "name": "ground beef",
+          "quantity": 2,
+          "unit": "lb",
+          "notes": null
+        },
+        {
+          "original_text": "Ground Italian Sausage - 1 Lb",
+          "name": "ground Italian sausage",
+          "quantity": 1,
+          "unit": "lb",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "group": "Veggies and Peppers",
+      "items": [
+        {
+          "original_text": "White Onion - 1 Large (Diced)",
+          "name": "white onion",
+          "quantity": 1,
+          "unit": null,
+          "notes": "large; diced"
+        },
+        {
+          "original_text": "Green Bell Pepper - 1 (Diced)",
+          "name": "green bell pepper",
+          "quantity": 1,
+          "unit": null,
+          "notes": "diced"
+        },
+        {
+          "original_text": "Red Bell Pepper - 1 (Diced)",
+          "name": "red bell pepper",
+          "quantity": 1,
+          "unit": null,
+          "notes": "diced"
+        },
+        {
+          "original_text": "Garlic - 4 Cloves (Chopped Or Minced)",
+          "name": "garlic",
+          "quantity": 4,
+          "unit": "clove",
+          "notes": "chopped or minced"
+        },
+        {
+          "original_text": "Canned Green Chiles - 4 Oz",
+          "name": "canned green chiles",
+          "quantity": 4,
+          "unit": "oz",
+          "notes": null
+        },
+        {
+          "original_text": "Pickled Jalapeno (Chopped) - 4 Oz",
+          "name": "pickled jalapeño",
+          "quantity": 4,
+          "unit": "oz",
+          "notes": "chopped"
+        }
+      ]
+    },
+    {
+      "group": "Tomatoes and Beans",
+      "items": [
+        {
+          "original_text": "Diced Tomatoes (Fire Roasted) - 28 Oz Can",
+          "name": "diced tomatoes",
+          "quantity": 1,
+          "unit": "can",
+          "notes": "28 oz; fire roasted"
+        },
+        {
+          "original_text": "Crushed Tomatoes - 28 Oz Can",
+          "name": "crushed tomatoes",
+          "quantity": 1,
+          "unit": "can",
+          "notes": "28 oz"
+        },
+        {
+          "original_text": "Tomato Paste - 4 Oz",
+          "name": "tomato paste",
+          "quantity": 4,
+          "unit": "oz",
+          "notes": null
+        },
+        {
+          "original_text": "Chili Beans (Drained) - 16 Oz",
+          "name": "chili beans",
+          "quantity": 16,
+          "unit": "oz",
+          "notes": "drained"
+        },
+        {
+          "original_text": "Kidney Beans (Drained) - 8 Oz",
+          "name": "kidney beans",
+          "quantity": 8,
+          "unit": "oz",
+          "notes": "drained"
+        }
+      ]
+    },
+    {
+      "group": "Liquids",
+      "items": [
+        {
+          "original_text": "Beef Stock - 2 Cups",
+          "name": "beef stock",
+          "quantity": 2,
+          "unit": "cup",
+          "notes": null
+        },
+        {
+          "original_text": "Soy Sauce - 2 Oz",
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "oz",
+          "notes": null
+        },
+        {
+          "original_text": "Worcestershire Sauce - 2 Oz",
+          "name": "Worcestershire sauce",
+          "quantity": 2,
+          "unit": "oz",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "group": "Finishing",
+      "items": [
+        {
+          "original_text": "Brown Sugar - 2 Tbsp",
+          "name": "brown sugar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "notes": null
+        },
+        {
+          "original_text": "Cinnamon Stick - 1",
+          "name": "cinnamon stick",
+          "quantity": 1,
+          "unit": null,
+          "notes": null
+        },
+        {
+          "original_text": "Dark Chocolate (70% Cacao) - 2 Squares",
+          "name": "dark chocolate",
+          "quantity": 2,
+          "unit": "square",
+          "notes": "70% cacao"
+        }
+      ]
+    },
+    {
+      "group": "Chili Seasoning",
+      "items": [
+        {
+          "original_text": "Chili Powder - 2 1/2 Tbsp",
+          "name": "chili powder",
+          "quantity": 2.5,
+          "unit": "tbsp",
+          "notes": null
+        },
+        {
+          "original_text": "Salt - 1 Tsp",
+          "name": "salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "notes": null
+        },
+        {
+          "original_text": "White Pepper - 1 Tbsp",
+          "name": "white pepper",
+          "quantity": 1,
+          "unit": "tbsp",
+          "notes": null
+        },
+        {
+          "original_text": "Onion Powder - 1 Tbsp",
+          "name": "onion powder",
+          "quantity": 1,
+          "unit": "tbsp",
+          "notes": null
+        },
+        {
+          "original_text": "Garlic Powder - 1 Tbsp",
+          "name": "garlic powder",
+          "quantity": 1,
+          "unit": "tbsp",
+          "notes": null
+        },
+        {
+          "original_text": "Smoked Paprika - 1 Tbsp",
+          "name": "smoked paprika",
+          "quantity": 1,
+          "unit": "tbsp",
+          "notes": null
+        },
+        {
+          "original_text": "Oregano - 1 Tbsp",
+          "name": "oregano",
+          "quantity": 1,
+          "unit": "tbsp",
+          "notes": null
+        },
+        {
+          "original_text": "Sazon - 1 Tbsp",
+          "name": "sazon",
+          "quantity": 1,
+          "unit": "tbsp",
+          "notes": null
+        },
+        {
+          "original_text": "Cumin - 1 Tsp",
+          "name": "cumin",
+          "quantity": 1,
+          "unit": "tsp",
+          "notes": null
+        },
+        {
+          "original_text": "Cayenne - 1/2 Tsp",
+          "name": "cayenne",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "group": "For Serving",
+      "items": [
+        {
+          "original_text": "Shredded Cheese",
+          "name": "shredded cheese",
+          "quantity": null,
+          "unit": null,
+          "notes": "for serving; amount not specified"
+        },
+        {
+          "original_text": "Fresh Sliced Jalapeno",
+          "name": "jalapeño",
+          "quantity": null,
+          "unit": null,
+          "notes": "fresh, sliced; for serving; amount not specified"
+        },
+        {
+          "original_text": "Cornbread",
+          "name": "cornbread",
+          "quantity": null,
+          "unit": null,
+          "notes": "for serving; amount not specified"
+        }
+      ]
+    },
+    {
+      "group": "Optional Toppings",
+      "items": [
+        {
+          "original_text": "Sour Cream",
+          "name": "sour cream",
+          "quantity": null,
+          "unit": null,
+          "notes": "optional, for serving; amount not specified"
+        },
+        {
+          "original_text": "Onions",
+          "name": "onion",
+          "quantity": null,
+          "unit": null,
+          "notes": "optional, for serving; amount and cut not specified"
+        },
+        {
+          "original_text": "Cilantro",
+          "name": "cilantro",
+          "quantity": null,
+          "unit": null,
+          "notes": "optional, for serving; amount not specified"
+        },
+        {
+          "original_text": "Crackers",
+          "name": "crackers",
+          "quantity": null,
+          "unit": null,
+          "notes": "optional, for serving; amount not specified"
+        },
+        {
+          "original_text": "Fritos",
+          "name": "Fritos",
+          "quantity": null,
+          "unit": null,
+          "notes": "optional, for serving; amount not specified"
+        },
+        {
+          "original_text": "Hot Sauce",
+          "name": "hot sauce",
+          "quantity": null,
+          "unit": null,
+          "notes": "optional, for serving; amount not specified"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "phase": "Prep",
+      "items": [
+        "In a small bowl, mix the chili powder, salt, white pepper, onion powder, garlic powder, smoked paprika, oregano, sazon, cumin, and cayenne. Divide the blend into two equal halves and set aside.",
+        "Dice the onion and both bell peppers, chop or mince the garlic, and chop the pickled jalapeños. Drain the chili beans and kidney beans so everything is ready once you start cooking."
+      ]
+    },
+    {
+      "phase": "Browning the meat",
+      "items": [
+        "In a Dutch oven or other large pot over medium-high heat, add the ground beef and ground Italian sausage. Break the meat up as it cooks and brown it completely.",
+        "Once the meat is fully browned, remove it from the pot, strain off the grease, and set the cooked meat aside."
+      ]
+    },
+    {
+      "phase": "Building the chili",
+      "items": [
+        "In the same pot, add the diced onion and bell peppers. Cook until translucent, scraping up any browned bits from the bottom of the pot.",
+        "Add the garlic and cook until fragrant, then return the cooked meat to the pot and stir to combine.",
+        "Season with the first half of the chili seasoning and stir until the meat and vegetables are fully coated.",
+        "Add the green chiles and chopped pickled jalapeños and cook briefly. Stir in the soy sauce and Worcestershire sauce until everything is fully combined.",
+        "Add the tomato paste and let it cook down for a couple of minutes before stirring it into the chili, to take away the raw taste and deepen the flavor.",
+        "Pour in the fire-roasted diced tomatoes and crushed tomatoes and stir well.",
+        "Add the beef stock and the second half of the chili seasoning and stir well."
+      ]
+    },
+    {
+      "phase": "Simmering",
+      "items": [
+        "Cover the pot, turn the heat down to low, and simmer for about 1 hour 20 minutes, stirring now and then so nothing sticks to the bottom.",
+        "Once the chili has reduced, stir in the drained chili beans and kidney beans.",
+        "Add the brown sugar, cinnamon stick, and dark chocolate, stirring until the chocolate melts into the chili.",
+        "Cover again and cook for about another 40 minutes, until the chili is thick.",
+        "Remove the cinnamon stick before serving."
+      ]
+    },
+    {
+      "phase": "Serving",
+      "items": [
+        "Ladle into bowls and top with shredded cheese and fresh sliced jalapeños, with cornbread on the side. Add any of the optional toppings you like."
+      ]
+    }
+  ],
+  "notes": [
+    "Take your time browning the meat; that color is a big part of the flavor. Straining off the grease afterward keeps the chili rich without a greasy top.",
+    "The seasoning blend is split in half on purpose: the first half coats the meat and vegetables, and the second half seasons the stock.",
+    "Drain the beans. The liquid in the can is starchy and salty, and can thin the chili and throw off the seasoning.",
+    "Keep the lid on during both simmers and keep the heat low, so the flavors come together without the bottom of the pot scorching.",
+    "Pull out the cinnamon stick before serving; leaving it in too long can let the cinnamon take over.",
+    "This chili tastes even better the next day, after the flavors have had time in the fridge overnight.",
+    "A Dutch oven is what the source used; any large pot with a lid and enough room will work.",
+    "Source-suggested swap: breakfast sausage can stand in for Italian sausage. The chili will taste a little milder and more savory.",
+    "To tone down the heat, cut the cayenne back or leave it out, and use fewer pickled jalapeños. Fresh jalapeños or hot sauce can add heat back at the table.",
+    "Chili freezes well. Cool it completely, portion into freezer-safe containers, and freeze for up to 3 months. Thaw in the fridge overnight and reheat on the stove over medium-low heat, adding a splash of beef stock if it gets too thick.",
+    "Source serving ideas beyond the toppings: warm cornbread, over white rice, or over noodles with leftovers."
+  ],
+  "flags": [
+    {
+      "severity": "medium",
+      "text": "Dark chocolate is listed as 2 squares (70% cacao), but the source does not give a weight or square size."
+    },
+    {
+      "severity": "low",
+      "text": "Green and red bell peppers are listed as 1 each, with no size given."
+    },
+    {
+      "severity": "low",
+      "text": "Serving items and optional toppings (shredded cheese, fresh sliced jalapeño, cornbread, sour cream, onions, cilantro, crackers, Fritos, and hot sauce) have no measured amounts."
+    },
+    {
+      "severity": "low",
+      "text": "Kidney beans are listed as 8 oz drained (half of a typical 15–16 oz can). Included as stated."
+    },
+    {
+      "severity": "low",
+      "text": "\"Chili beans\" variety and brand are not specified. Sazon is listed as 1 tablespoon, with no brand."
+    }
+  ],
+  "images": {
+    "embedded": [],
+    "note": "No site photos downloaded or embedded (rights unclear). Photos are on the source page.",
+    "source_photos_url": "https://camcancoook.com/homemade-chili/"
+  },
+  "date_added": "2026-11-18"
+}
