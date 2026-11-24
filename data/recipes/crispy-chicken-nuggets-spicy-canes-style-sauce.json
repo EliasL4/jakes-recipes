@@ -1,0 +1,272 @@
+{
+  "id": "crispy-chicken-nuggets-spicy-canes-style-sauce",
+  "title": "Crispy Chicken Nuggets with Spicy Cane's-Style Sauce",
+  "source_url": "https://www.facebook.com/Platedbyyuri/videos/crispy-chicken-nuggets-with-spicy-canes-style-sauce-chicken-mixture1-lb-ground-c/1781671302887199/",
+  "source_name": "platedbyyuri",
+  "source_site": "platedbyyuri",
+  "source_author": null,
+  "summary": "Ground chicken breast is seasoned, shaped into nuggets, and frozen, then dipped in a light batter and fried at 350°F until golden and crisp. Serve them hot with a spicy mayonnaise sauce flavored with sriracha and Worcestershire.",
+  "tags": [
+    "chicken",
+    "nuggets",
+    "fried",
+    "dinner",
+    "sauce",
+    "spicy"
+  ],
+  "servings": null,
+  "yield": null,
+  "times": {
+    "prep": null,
+    "cook": null,
+    "total": null
+  },
+  "ingredient_groups": [
+    {
+      "group": "Chicken mixture",
+      "items": [
+        {
+          "original_text": "1 lb ground chicken breast",
+          "name": "ground chicken breast",
+          "quantity": 1,
+          "unit": "lb",
+          "notes": null
+        },
+        {
+          "original_text": "1 large egg",
+          "name": "egg",
+          "quantity": 1,
+          "unit": null,
+          "notes": "large"
+        },
+        {
+          "original_text": "2 tbsp cornstarch",
+          "name": "cornstarch",
+          "quantity": 2,
+          "unit": "tbsp",
+          "notes": null
+        },
+        {
+          "original_text": "¾ tsp salt",
+          "name": "salt",
+          "quantity": 0.75,
+          "unit": "tsp",
+          "notes": null
+        },
+        {
+          "original_text": "½ tsp black pepper",
+          "name": "black pepper",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "notes": null
+        },
+        {
+          "original_text": "¼ tsp white pepper",
+          "name": "white pepper",
+          "quantity": 0.25,
+          "unit": "tsp",
+          "notes": null
+        },
+        {
+          "original_text": "1 tsp garlic powder",
+          "name": "garlic powder",
+          "quantity": 1,
+          "unit": "tsp",
+          "notes": null
+        },
+        {
+          "original_text": "1 tsp onion powder",
+          "name": "onion powder",
+          "quantity": 1,
+          "unit": "tsp",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "group": "Wet batter",
+      "items": [
+        {
+          "original_text": "½ cup all-purpose flour",
+          "name": "all-purpose flour",
+          "quantity": 0.5,
+          "unit": "cup",
+          "notes": null
+        },
+        {
+          "original_text": "¼ cup cornstarch",
+          "name": "cornstarch",
+          "quantity": 0.25,
+          "unit": "cup",
+          "notes": null
+        },
+        {
+          "original_text": "½ tsp salt",
+          "name": "salt",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "notes": null
+        },
+        {
+          "original_text": "¼ tsp black pepper",
+          "name": "black pepper",
+          "quantity": 0.25,
+          "unit": "tsp",
+          "notes": null
+        },
+        {
+          "original_text": "½ tsp paprika or chili powder",
+          "name": "paprika or chili powder",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "notes": null
+        },
+        {
+          "original_text": "½ tsp garlic powder",
+          "name": "garlic powder",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "notes": null
+        },
+        {
+          "original_text": "½–¾ cup cold water",
+          "name": "cold water",
+          "quantity": 0.5,
+          "unit": "cup",
+          "notes": "to 3/4 cup"
+        }
+      ]
+    },
+    {
+      "group": "Dry coating",
+      "items": [
+        {
+          "original_text": "½ cup all-purpose flour",
+          "name": "all-purpose flour",
+          "quantity": 0.5,
+          "unit": "cup",
+          "notes": "plain flour, for coating"
+        }
+      ]
+    },
+    {
+      "group": "For frying",
+      "items": [
+        {
+          "original_text": "Neutral oil, about 1½ inches deep in the pot",
+          "name": "neutral oil",
+          "quantity": null,
+          "unit": null,
+          "notes": "about 1 1/2 inches deep in the pot"
+        }
+      ]
+    },
+    {
+      "group": "Spicy Cane's-style sauce",
+      "items": [
+        {
+          "original_text": "½ cup mayonnaise",
+          "name": "mayonnaise",
+          "quantity": 0.5,
+          "unit": "cup",
+          "notes": null
+        },
+        {
+          "original_text": "1–2 tbsp sriracha",
+          "name": "sriracha",
+          "quantity": 1,
+          "unit": "tbsp",
+          "notes": "to 2 tbsp; start with 1 tbsp and add more to taste"
+        },
+        {
+          "original_text": "1 tsp Worcestershire sauce",
+          "name": "Worcestershire sauce",
+          "quantity": 1,
+          "unit": "tsp",
+          "notes": null
+        },
+        {
+          "original_text": "½ tsp garlic powder",
+          "name": "garlic powder",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "notes": null
+        },
+        {
+          "original_text": "½ tsp freshly ground black pepper",
+          "name": "black pepper",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "notes": "freshly ground"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "phase": "Shape and freeze",
+      "items": [
+        "Mix the ground chicken breast, egg, cornstarch, and seasonings until smooth and sticky. Lightly oil your hands and shape into small nuggets about 1/2 inch thick. Place them on a parchment-lined tray and freeze for a few hours, until frozen."
+      ]
+    },
+    {
+      "phase": "Batter",
+      "items": [
+        "Whisk together the flour, cornstarch, and seasonings for the wet batter. Start with 1/2 cup cold water and add more a little at a time until the batter coats the nuggets and the excess drips off easily."
+      ]
+    },
+    {
+      "phase": "Fry",
+      "items": [
+        "Heat the oil to 350°F. Lightly coat each frozen nugget in plain flour, shake off the excess, then dip it into the wet batter. Let the extra batter drip off before frying.",
+        "Fry in small batches, turning occasionally, until golden and crispy. Start checking around 4–5 minutes and cook until the centers reach 165°F. Drain on a wire rack and let them rest for 1–2 minutes."
+      ]
+    },
+    {
+      "phase": "Sauce",
+      "items": [
+        "Mix the mayonnaise, sriracha, Worcestershire sauce, garlic powder, and black pepper. Start with 1 tablespoon sriracha and add more to taste. Serve with the hot nuggets for dipping."
+      ]
+    }
+  ],
+  "notes": [
+    "The written recipe with quantities is the caption on platedbyyuri's Facebook reel.",
+    "Facebook reel (share link): https://www.facebook.com/share/r/1A7U3Kyawe/"
+  ],
+  "flags": [
+    {
+      "severity": "medium",
+      "text": "The source does not give a serving count or yield."
+    },
+    {
+      "severity": "medium",
+      "text": "The source does not give prep, cook, or total times. The method calls for freezing the shaped nuggets \"for a few hours, until frozen,\" frying until the centers reach 165°F (start checking around 4–5 minutes), and resting 1–2 minutes after draining. Those times are in the steps; no overall time is listed."
+    },
+    {
+      "severity": "low",
+      "text": "Wet batter water is listed as 1/2–3/4 cup. The method says to start with 1/2 cup and add more a little at a time until the batter coats the nuggets and the excess drips off easily."
+    },
+    {
+      "severity": "low",
+      "text": "Sriracha is listed as 1–2 tablespoons. The method says to start with 1 tablespoon and add more to taste."
+    },
+    {
+      "severity": "low",
+      "text": "The wet batter calls for 1/2 teaspoon paprika or chili powder (either is fine)."
+    },
+    {
+      "severity": "low",
+      "text": "Neutral oil is specified by depth (about 1 1/2 inches in the pot), not by volume."
+    },
+    {
+      "severity": "low",
+      "text": "The method says to lightly oil your hands when shaping the nuggets; that oil is not listed as a separate ingredient."
+    }
+  ],
+  "images": {
+    "embedded": [],
+    "note": "No site photos downloaded or embedded (rights unclear). Photos are on the source page.",
+    "source_photos_url": "https://www.facebook.com/Platedbyyuri/videos/crispy-chicken-nuggets-with-spicy-canes-style-sauce-chicken-mixture1-lb-ground-c/1781671302887199/"
+  },
+  "date_added": "2026-11-24"
+}

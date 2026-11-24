@@ -1,7 +1,26 @@
 {
-  "updated": "2026-11-18",
-  "count": 3,
+  "updated": "2026-11-24",
+  "count": 4,
   "recipes": [
+    {
+      "id": "crispy-chicken-nuggets-spicy-canes-style-sauce",
+      "title": "Crispy Chicken Nuggets with Spicy Cane's-Style Sauce",
+      "summary": "Ground chicken breast is seasoned, shaped into nuggets, and frozen, then dipped in a light batter and fried at 350°F until golden and crisp. Serve them hot with a spicy mayonnaise sauce flavored with sriracha and Worcestershire.",
+      "tags": [
+        "chicken",
+        "nuggets",
+        "fried",
+        "dinner",
+        "sauce",
+        "spicy"
+      ],
+      "total_time": null,
+      "source_site": "platedbyyuri",
+      "source_url": "https://www.facebook.com/Platedbyyuri/videos/crispy-chicken-nuggets-with-spicy-canes-style-sauce-chicken-mixture1-lb-ground-c/1781671302887199/",
+      "date_added": "2026-11-24",
+      "url": "recipes/crispy-chicken-nuggets-spicy-canes-style-sauce.html",
+      "data": "data/recipes/crispy-chicken-nuggets-spicy-canes-style-sauce.json"
+    },
     {
       "id": "homemade-chili",
       "title": "Homemade Chili",
