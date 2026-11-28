@@ -1,6 +1,6 @@
 {
   "updated": "2026-11-27",
-  "count": 5,
+  "count": 6,
   "recipes": [
     {
       "id": "broccoli-cheddar-soup",
@@ -19,6 +19,24 @@
       "date_added": "2026-11-27",
       "url": "recipes/broccoli-cheddar-soup.html",
       "data": "data/recipes/broccoli-cheddar-soup.json"
+    },
+    {
+      "id": "creamy-tuscan-chicken-pasta",
+      "title": "Creamy Tuscan Chicken Pasta",
+      "summary": "Seasoned chicken thighs are seared until golden, then sliced over penne in a Parmesan cream sauce with cherry tomatoes and spinach. The sauce is loosened with pasta water and finished with lemon juice.",
+      "tags": [
+        "chicken",
+        "pasta",
+        "dinner",
+        "creamy",
+        "tuscan"
+      ],
+      "total_time": "about 35 minutes",
+      "source_site": "Cooking Whatever",
+      "source_url": "https://www.facebook.com/61595193495794/videos/dinners-that-pay-my-rent-episode-6-creamy-tuscan-chicken-pasta-%EF%B8%8Fgolden-seared-ch/1167571739582020/",
+      "date_added": "2026-11-27",
+      "url": "recipes/creamy-tuscan-chicken-pasta.html",
+      "data": "data/recipes/creamy-tuscan-chicken-pasta.json"
     },
     {
       "id": "crispy-chicken-nuggets-spicy-canes-style-sauce",
