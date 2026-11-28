@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-24",
-  "count": 4,
+  "updated": "2026-11-27",
+  "count": 5,
   "recipes": [
+    {
+      "id": "broccoli-cheddar-soup",
+      "title": "Homemade Broccoli Cheddar Soup",
+      "summary": "A one-pot broccoli cheddar soup starts with a butter, onion, and garlic roux, then simmers chopped broccoli and shredded carrots in chicken broth and half and half. Off the heat, freshly shredded sharp cheddar is stirred in until the soup is melted and creamy.",
+      "tags": [
+        "soup",
+        "broccoli",
+        "cheddar",
+        "dinner",
+        "one-pot"
+      ],
+      "total_time": null,
+      "source_site": "Alisia Walker",
+      "source_url": "https://www.facebook.com/walker.alisia/videos/this-homemade-broccoli-cheddar-soup-is-pure-comfort-in-a-bowl-perfect-for-a-chil/1634254077732316/",
+      "date_added": "2026-11-27",
+      "url": "recipes/broccoli-cheddar-soup.html",
+      "data": "data/recipes/broccoli-cheddar-soup.json"
+    },
     {
       "id": "crispy-chicken-nuggets-spicy-canes-style-sauce",
       "title": "Crispy Chicken Nuggets with Spicy Cane's-Style Sauce",
